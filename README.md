@@ -1,4 +1,4 @@
-# Building Gmail from Scratch Using React (Custom Hooks, Redux) and Firebase
+# Building Gmail from Scratch Using React (Custom Hooks, Redux) and Firebase https://clone-58bbf.web.app/ 
 
 This application (a Gmail clone) was built using React (Custom Hooks, Redux), Firebase Authentication + Firestore. I have built the following pages within this application: Sign-in and Sign-up and the main dashboard where the emails are displayed. Firebase firestore handles all the data and that data is retrieved using a custom hook; authentication is used on all pages, which is as well handled by firebase.
 
